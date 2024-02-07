@@ -1,6 +1,6 @@
 using System;
 
-namespace ProjetoMcvSimples.Models
+namespace ProjetoMcvSimples.Models.ViewModel
 {
     public class ErrorViewModel
     {
